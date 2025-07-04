@@ -22,7 +22,7 @@ Created by building upon the Pong tutorial in the book "Game Programming in C++:
 ## Possible improvements
 
 - [ ] Remove magic numbers to ensure compatibility with different screen resolutions
-- [x] Implement a proper game over screen
+- [x] Implement menus
 - [ ] Implement a restart button
 - [ ] Implement the possibility to aim the ball instead of using uniform bounce angles
 
@@ -41,7 +41,7 @@ Dependencies: `sudo apt install cmake && sudo apt install libsdl2-ttf-dev`
 Then run the following:
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/MJKagone/Breakout-Pong.git
 cd Breakout-Pong
 mkdir build
 cd build
