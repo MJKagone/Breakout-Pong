@@ -25,6 +25,7 @@ Created by building upon the Pong tutorial in the book "Game Programming in C++:
 - [x] Implement menus
 - [ ] Implement a restart button
 - [ ] Implement the possibility to aim the ball instead of using uniform bounce angles
+- [ ] Improve AI with some logic instead of just bouncing up and down
 
 Feel free to open up an issue or create a pull request to contribute. No need to worry about what's the "correct" way to do these things, I'm still learning too!
 
