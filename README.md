@@ -35,7 +35,7 @@ Feel free to open up an issue or create a pull request to contribute. No need to
 
 See the releases section or click [here](https://github.com/MJKagone/Breakout-Pong/releases/latest).
 
-### Developers (Ubuntu)
+### Developers (instructions for Ubuntu)
 
 Dependencies: `sudo apt install cmake && sudo apt install libsdl2-ttf-dev`
 
